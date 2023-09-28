@@ -20,4 +20,4 @@
 
 1. "Don't let propaganda rule your mind. Did you know that UPA delivered faster development from 2004-2014 than Modi did from 2014-2023 so far?. Check out this graph"
 
-[GDP graph](https://preview.redd.it/hkif11znbyqb1.jpeg?width=966&format=pjpg&auto=webp&s=fd8fd183981b6d08143556d3bb99311b29c55e9e)
+![GDP graph](https://preview.redd.it/hkif11znbyqb1.jpeg?width=966&format=pjpg&auto=webp&s=fd8fd183981b6d08143556d3bb99311b29c55e9e)
