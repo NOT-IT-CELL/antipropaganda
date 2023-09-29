@@ -22,5 +22,5 @@
 
 ![GDP graph](https://preview.redd.it/hkif11znbyqb1.jpeg?width=966&format=pjpg&auto=webp&s=fd8fd183981b6d08143556d3bb99311b29c55e9e)
 
-
-How to contribute: This site is hosted out of this repo: https://github.com/NOT-IT-CELL/antipropaganda/. You can give me your suggestions/contributions using github issues (just click-click on the website) or a PR. If you don't want to reveal your normal github identity, createa a new account using a new email address. 
+>[HOW TO CONTRIBUTE]
+> This site is hosted out of this  [github repo https://github.com/NOT-IT-CELL/antipropaganda/] (https://github.com/NOT-IT-CELL/antipropaganda). You can give me your suggestions/contributions using github issues (just click-click on the website) or a PR. If you don't want to reveal your normal github identity, createa a new account using a new email address. 
